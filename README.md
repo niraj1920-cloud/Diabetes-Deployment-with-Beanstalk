@@ -181,7 +181,14 @@ Target variable:
 9. Deploying the Application to AWS Elastic Beanstalk:
 - The Flask application is packaged with all necessary dependencies and configuration files, such as requirements.txt, application.py, and any environment-specific configurations (e.g., .ebextensions).
 - The application is deployed to AWS Elastic Beanstalk, a cloud platform for deploying and managing applications. AWS Elastic Beanstalk automatically handles the infrastructure, load balancing, scaling, and application monitoring.
+  
 ## Screenshots
+
+![image](https://github.com/user-attachments/assets/e7bfbd60-cf29-46c5-ae88-fe4a3f417483)
+
+![image](https://github.com/user-attachments/assets/7a2cccf9-36b1-4c9f-9a7a-20aa9b52aa02)
+
+
 ## Contributions
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
