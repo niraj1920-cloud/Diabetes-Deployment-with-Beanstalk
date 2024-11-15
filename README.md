@@ -198,11 +198,3 @@ If you have a suggestion that would make this better, please fork the repo and c
 3. Commit your Changes
 4. Push to the Branch
 5. Open a Pull Request
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
