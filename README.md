@@ -6,6 +6,8 @@
 ## About the Project
 The Diabetes Prediction System project is focused on predicting the likelihood of diabetes in patients based on medical attributes like glucose levels, blood pressure, insulin, BMI, and age. This classification model serves as a diagnostic aid for healthcare providers and patients.
 
+![image](https://github.com/user-attachments/assets/d6509cdf-6aa2-4d73-bbff-9f89475c33cc)
+
 
 ## About Dataset
 
