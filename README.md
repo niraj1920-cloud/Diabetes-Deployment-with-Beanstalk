@@ -186,8 +186,7 @@ Target variable:
 
 ![image](https://github.com/user-attachments/assets/e7bfbd60-cf29-46c5-ae88-fe4a3f417483)
 
-![image](https://github.com/user-attachments/assets/7a2cccf9-36b1-4c9f-9a7a-20aa9b52aa02)
-
+![image](https://github.com/user-attachments/assets/fb43a3fa-c7a6-46df-826b-ca072a3a242c)
 
 ## Contributions
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
